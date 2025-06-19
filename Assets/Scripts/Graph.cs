@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class Graph : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
-        
+        Initialize();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Initialize()
     {
-        
+
     }
 }
